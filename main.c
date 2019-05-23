@@ -6,6 +6,7 @@ int main()
 {
     printf("Hello Worild!\n");
     printf("Modified by Jet!\n");
+    test();
     return 0;
 }
 
